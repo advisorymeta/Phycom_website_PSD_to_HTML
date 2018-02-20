@@ -1,0 +1,436 @@
+body {
+      font-family: Verdana, Geneva, Arial, sans-serif;
+      font-style: normal;
+      font-size: medium;
+      font-weight: normal;
+      color: navy;   
+      width: 1400px;
+      height: 100%; 
+      }
+
+#logoboxtop {
+            background-color: #e5ded2;
+            height: 90px;
+            width: 1400px;    
+            margin-left: 0px;
+            margin-top: 0px;
+            }
+			
+
+#logocontainer1 {
+               background-image: url(images/Phycom_logo.png);
+               background-repeat: no-repeat;
+               background-position: left;  
+               height: 90px;
+               margin-left: 10px;
+                         }
+
+ul#logocontainer3 li {
+             list-style: none; 
+             background: #003865; 
+             display: inline;
+             margin-left: 0px;
+             margin-right: 0px;
+             margin-top: 0px;
+             margin-bottom: -10px;
+             float: right;
+                     }
+            
+
+ul#navbarphone li {
+             list-style: none;  
+             background: #003865; 
+             display: inline;
+             margin-left: 20px;
+             margin-right: 20px;
+             margin-top: 20px;
+             float: right;
+             }
+
+ul#navbarlinks li {
+             list-style: none;  
+             background: #003865; 
+             display: inline;
+             margin-right: 20px;
+             margin-top: 20px;
+             float: right;
+             }
+
+
+		   
+
+a {text-decoration: none;
+  color: #d79e3e;
+  }
+
+#logoboxnext {
+             background-color: #003865; 
+             height: 70px;
+             width: 1400px;
+             margin-top: -17px;
+             } 
+
+
+#efficiency {
+           display: inline-block;
+           height: 390px;
+           width: 467px;
+           background-image: url(images/Efficiency_background.png);
+           background-size: cover;
+           margin-left: -1px;
+           float: left;
+           }
+
+#certainty {
+           display: inline-block;
+           height: 390px;
+           width: 467px;
+           background-image: url(images/Certaincy_background.png);  
+           background-size: cover;
+           float: left;
+           }
+
+#agility   {
+           display: inline-block;
+           height: 390px;
+           width: 467px;
+           background-image: url(images/Agility_background.png); 
+           background-size: cover;
+           float: left;
+           vertical-align: middle;
+           }
+
+
+p.efficiencymoto {
+       text-align: right;
+       margin-top: 0px;
+       margin-right: 50px;
+       margin-bottom: -10px; 
+       color: white;
+       font-weight: regular;
+       font-style: italic;
+       font-size: 280%;
+       }
+
+p.certaintymoto {
+       text-align: right;
+       margin-top: 130px;
+       margin-right: 50px;
+       margin-bottom: -10px; 
+       color: white;
+       font-weight: regular;
+       font-style: italic;
+       font-size: 280%;
+       }
+
+p.agilitymoto {
+       text-align: right;
+       margin-top: 250px;
+       margin-right: 50px;
+       margin-bottom: -10px; 
+       color: white;
+       font-weight: regular;
+       font-style: italic;
+       font-size: 280%;
+       }
+
+
+#blockleft {
+           display: inline-block;
+           height: 320px;
+           width: 690px;
+           background-image: url(images/Left_block.png); 
+           background-size: cover;
+           margin-top: 20px;
+           margin-right: 10px;
+           margin-bottom: 20px;
+           padding: 80px 100px 100px 100px; 
+           box-sizing: border-box; 
+           float: left;
+           }
+
+
+.whitetextleft {
+               text-align: left;
+               color: white;
+               font-weight: regular;
+               font-style: italic;
+               font-size: 175%;
+               font-style: normal;
+               line-height: 1.5;
+               }
+
+.blacktextleft {
+               text-align: right;
+               color: black;
+               font-weight: regular;
+               font-style: italic;
+               font-size: 175%;
+               line-height: 1.5;
+               }
+
+#blockright {
+            display: inline-block;
+            height: 320px;
+            width: 690px;
+            background-image: url(images/Right_block.png); 
+            background-size: cover;
+            margin-top: 20px;
+            margin-bottom: 20px;
+            margin-left: 10px;
+            padding: 50px 60px 60px 60px; 
+            box-sizing: border-box; 
+            float: left;
+            }
+
+
+.whitetextright {
+               text-align: left;
+               color: white;
+               font-weight: regular;
+               font-style: normal;
+               font-size: 141%;
+               line-height: 1.5;
+               }
+
+#efficiencypage {
+                background-image: url(images/One_image.png);
+                background-repeat: no-repeat;
+                background-position: top-left;
+                }
+				
+#certaintypage {
+                background-image: url(images/One_image.png);
+                background-repeat: no-repeat;
+                background-position: top-left;
+                }
+
+.maintextspace { 
+                    height: 540px;
+                    width: 700px;
+                    margin-right: 0px;    
+                    padding: 0px 15px 142px 260px;
+                    border: thin dotted white;
+                    float: left;  
+                    }
+
+.columnspace {
+                   height: 390px;
+                   width: 320px;
+                   margin: 0px;    
+                   padding: 150px 100px 142px 0px; 
+                   border: thin dotted white;
+                   float: left;   
+                   }
+
+.pagespace {
+                   width: 880px;
+                   margin: 0px;    
+                   padding: 0px 260px 520px 260px; 
+                   border: thin dotted white;
+                   float: left;   
+                   }
+
+
+p.heading1 {
+           color: green; 
+           font-style: italic;
+           font-size: 500%;
+		   margin: 30px 0px 30px 0px;
+		   padding: 0;
+           }
+		   
+p.heading2 {
+           color: teal; 
+           font-style: italic;
+           font-size: 500%;
+		   margin: 30px 0px 30px 0px;
+		   padding: 0;
+           }
+		   
+p.heading3 {
+           color: midnightblue; 
+           font-style: italic;
+           font-size: 500%;
+	   margin: 30px 0px 30px 0px;
+	   padding: 0;
+           }
+
+p.heading4 {
+           color: midnightblue; 
+           font-style: italic;
+           font-size: 300%;
+	   margin: 30px 0px 30px 0px;
+	   padding: 0;
+	   text-align: center;
+           }
+		   
+p.testimonials {
+           color: midnightblue; 
+           font-style: italic;
+           font-size: 100%;
+           text-align: left;
+           line-height: 20px; 
+               }
+
+td {
+    padding: 0px 10px 30px 10px;
+    line-height: 33px;
+    background-repeat: no-repeat;
+  
+   }		   
+		   
+p.maintext {
+	       color: navy;
+	       line-height: 1.5;
+	       }
+
+p.columntextnavy {
+	       color: navy;
+	       line-height: 1.5;
+		   font-size: 13px;
+		   margin-bottom: -3px;
+	       }
+		   
+p.columntextyellow {
+	       color: DarkOrange;
+	       line-height: 1.5;
+		   font-size: 17px;
+	       }
+
+
+p.bold {
+       font-weight: bold;
+	   line-height: 4.5; 
+	   color: navy;
+              }
+			  
+p.casestudy1 {
+	    margin-top: -10px;
+        line-height: 35px;
+
+}
+
+p.aboutustop {
+line-height: 30px;	
+padding-right: 130px;
+padding-left: 130px;	
+}	
+
+p.aboutuszubair {
+line-height: 30px;
+padding-right: 130px;	
+font-size: 13px;
+margin-top: -1px;
+}
+
+
+			  
+li {
+        list-style: none;
+   	margin-top: 0;
+	margin-bottom: 0;
+   }
+
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+	color: teal;
+	font-family:verdana;
+}
+
+input::-webkit-input-placeholder { /* WebKit browsers */
+    color:    #008080;
+}
+input:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color:    #008080;
+}
+input::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color:    #008080;
+}
+input:-ms-input-placeholder { /* Internet Explorer 10+ */
+    color:    #008080;
+}
+
+textarea::-webkit-input-placeholder { color: #008080; }
+	
+input[type=submit] {
+    background-color: teal;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+	font-family:verdana;
+	font-size: 100%;
+	font-weight: bold;
+}
+
+p.required {
+	font-style: italic;
+	text-align: right;
+	margin-top: -5px;
+	padding-left: 300px;
+	
+}
+
+input[type=submit]:hover {
+    background-color: MidnightBlue;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+   
+
+.footer {
+	     height: 90px;
+         width: 1400px;
+	     border: thin dotted white;
+		 float: left;  
+         }
+   
+#logoboxfoot {
+            background-color: black;
+            height: 90px;
+            width: 1400px;    
+            margin-left: -0px;
+            margin-top: -5px;
+            }
+			
+#logocontainer2 {
+               background-image: url(images/Phycom_logo_on_black.png);
+               background-repeat: no-repeat;
+               background-position: left;  
+               height: 90px;
+               margin-left: 10px; 
+               }
+
+ul#footerlinks li {
+             list-style: none;  
+             background: black; 
+             display: inline;
+             margin-right: 20px;
+             margin-top: 20px;
+             float: right;
+
+ul#footerphone li {
+             list-style: none;  
+             background: black; 
+             display: inline;
+             margin-right: 20px;
+             margin-top: 20px;
+             float: right;
+             }
+
+
+  
